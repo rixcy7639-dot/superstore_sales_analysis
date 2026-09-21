@@ -24,7 +24,7 @@ MySQL Workbench, Power BI Desktop, Canva, GitHub
 ## Files in this Repo
 - dashboard_final.png - Power BI screenshot
 - Superstore_Dashboard.pbix - Power BI file
-- superstore.csv - Dataset
+- superstore.csv.csv - Dataset
 - Rixcy_Superstore_MySQL.pdf - SQL queries proof (Canva)
 
 ## Result
